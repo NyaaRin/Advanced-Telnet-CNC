@@ -1,0 +1,2 @@
+<<$clear>>[0m      Welcome to God-Send
+\x1b[0m
