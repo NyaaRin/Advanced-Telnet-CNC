@@ -1,0 +1,1118 @@
+admin_bypass = false
+enabled = true
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "1.1.1.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "8.8.8.0"
+
+[[blacklisted]]
+  netmask = 21
+  prefix = "205.220.224.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.224.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.225.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.226.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.227.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.228.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.229.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.230.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.231.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "206.71.158.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "206.71.158.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "206.71.159.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "136.175.222.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "136.175.222.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "136.175.223.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "205.178.176.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.178.176.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.178.177.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "209.237.140.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "209.237.140.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "209.237.141.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "205.178.182.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.178.182.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.178.183.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "64.52.81.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.193.68.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.240.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.241.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.242.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.243.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.244.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.245.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.246.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.247.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "45.88.228.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.27.5.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "148.59.74.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "149.18.60.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "149.18.60.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "149.18.61.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "149.18.62.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "149.18.63.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "141.11.230.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "104.234.2.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "141.11.196.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "46.162.60.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "217.20.242.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "194.69.160.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "157.254.166.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "14.102.233.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.26.121.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "157.254.166.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "157.254.167.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.231.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.230.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.196.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.197.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.198.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.199.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "91.207.1.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.26.136.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.26.135.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "201.131.37.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "141.11.230.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "185.228.81.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "141.11.196.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "46.162.60.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "194.69.160.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "185.228.82.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.128.157.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.230.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.231.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.196.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.197.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.198.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "141.11.199.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "14.102.233.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.240.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.241.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.242.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.243.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.244.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.245.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.246.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.183.247.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "104.152.140.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "134.195.42.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "136.175.222.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "136.175.223.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "148.59.74.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "172.111.34.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "172.111.51.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "204.10.192.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.178.176.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.178.177.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "205.178.182.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.178.182.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.178.183.0"
+
+[[blacklisted]]
+  netmask = 21
+  prefix = "205.220.224.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.224.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.225.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.226.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.229.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.230.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "205.220.231.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "206.71.158.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "206.71.158.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "206.71.159.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "209.142.103.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "209.237.140.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "209.237.140.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "209.237.141.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "157.254.166.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "104.234.2.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "217.20.242.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "157.254.166.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "157.254.167.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.26.135.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "23.26.136.0"
+
+[[blacklisted]]
+  netmask = 20
+  prefix = "173.245.48.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "103.21.244.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "103.22.200.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "103.31.4.0"
+
+[[blacklisted]]
+  netmask = 18
+  prefix = "141.101.64.0"
+
+[[blacklisted]]
+  netmask = 18
+  prefix = "108.162.192.0"
+
+[[blacklisted]]
+  netmask = 20
+  prefix = "190.93.240.0"
+
+[[blacklisted]]
+  netmask = 20
+  prefix = "188.114.96.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "197.234.240.0"
+
+[[blacklisted]]
+  netmask = 17
+  prefix = "198.41.128.0"
+
+[[blacklisted]]
+  netmask = 15
+  prefix = "162.158.0.0"
+
+[[blacklisted]]
+  netmask = 13
+  prefix = "104.16.0.0"
+
+[[blacklisted]]
+  netmask = 14
+  prefix = "104.24.0.0"
+
+[[blacklisted]]
+  netmask = 13
+  prefix = "172.64.0.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "131.0.72.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "185.102.172.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "185.102.173.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "185.35.136.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "185.35.137.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "185.35.138.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "185.35.139.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "193.176.244.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "193.176.245.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.131.79.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.137.198.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.137.199.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.137.204.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.137.205.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.137.206.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.137.207.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.139.50.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.139.51.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.140.142.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.140.189.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.140.191.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "45.140.212.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.141.200.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.141.201.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.141.203.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.144.196.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.59.169.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.90.116.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.90.117.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.90.118.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.90.119.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.94.220.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.94.221.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.94.222.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "45.94.223.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "85.203.40.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "85.203.42.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.101.2.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.101.2.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.101.3.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "103.107.196.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.107.196.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.107.196.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.107.197.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.107.198.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.107.198.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.107.199.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.120.20.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.120.20.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.120.21.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.120.22.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.120.23.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "103.1.212.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.1.212.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.1.212.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.1.213.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.1.214.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.1.214.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.1.215.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.125.144.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.125.145.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.137.12.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.137.12.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.137.14.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.137.14.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.137.15.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "103.212.224.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.212.224.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.212.224.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.212.225.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.212.226.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.212.226.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.212.227.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.62.48.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.62.48.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.62.49.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "103.62.50.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.62.50.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "103.62.51.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "108.165.32.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "108.165.32.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "108.165.33.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "109.122.213.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "116.90.72.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "116.90.72.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "116.90.73.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "116.90.74.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "116.90.74.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "116.90.75.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "139.5.232.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "139.5.234.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "139.5.234.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "139.5.235.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "140.99.0.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "140.99.0.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "140.99.1.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "149.18.84.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "160.202.164.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "160.202.164.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "160.202.165.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "160.202.166.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "160.202.167.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "166.0.9.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "168.81.10.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "168.81.10.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "168.81.11.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "168.81.8.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "168.81.8.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "168.81.8.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "168.81.9.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "173.244.49.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "173.244.62.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "176.96.95.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "179.61.174.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "185.211.9.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "185.238.176.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "191.96.9.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "194.195.89.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "194.5.82.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "194.5.82.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "194.5.83.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "194.61.40.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "194.61.40.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "194.61.41.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "195.8.201.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "202.165.64.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "202.165.65.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "202.165.66.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "202.165.67.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "202.165.68.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "202.165.69.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "202.165.70.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "202.165.70.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "203.10.96.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "203.10.96.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "203.10.97.0"
+
+[[blacklisted]]
+  netmask = 23
+  prefix = "203.10.98.0"
+
+[[blacklisted]]
+  netmask = 22
+  prefix = "193.109.8.0"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "193.29.204.0"
+
+[[blacklisted]]
+  netmask = 32
+  prefix = "162.19.226.12"
+
+[[blacklisted]]
+  netmask = 32
+  prefix = "164.132.231.118"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "51.81.222.0"
+
+[[blacklisted]]
+  netmask = 32
+  prefix = "178.32.119.243"
+
+[[blacklisted]]
+  netmask = 24
+  prefix = "168.100.15.0"

@@ -1,9 +1,0 @@
-{
-  "server": {
-    "host": "84.54.51.227",
-    "port": 1337
-  },
-  "database": {
-    "path": "assets/cnc.db"
-  }
-}

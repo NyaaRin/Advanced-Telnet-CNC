@@ -1,0 +1,1 @@
+<<slave->$UserCount>> | <<attacks->$Running>>/<<attacks->$Slots>> slots | Active: <<sessions->$Count>> 

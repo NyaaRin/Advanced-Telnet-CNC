@@ -1,0 +1,5 @@
+attack_slots = 5
+attacks = true
+captcha = false
+global_cooldown = 120
+master = 32565

@@ -1,1 +1,0 @@
-\x1b[1;37mAttack delivered to \x1b[35m<<$botcount>>\x1b[7m Angels.\x1b[0m

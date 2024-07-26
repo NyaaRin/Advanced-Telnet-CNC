@@ -1,0 +1,113 @@
+[[themes]]
+name = "default"
+primary = "#ffffff"
+secondary = "#c50f1e"
+
+[[themes]]
+name = "komaru"
+primary = "#F2F2F2"
+secondary = "#c50f1e"
+
+[[themes]]
+name = "fbot"
+primary = "#f9f1a5"
+secondary = "#c50f1e"
+
+[[themes]]
+name = "mirai"
+primary = "#15c60c"
+secondary = "#61d6d6"
+
+[[themes]]
+name = "moobot"
+primary = "#15c60c"
+secondary = "#61d6d6"
+
+[[themes]]
+name = "krebs"
+primary = "#F2F2F2"
+secondary = "#3B78FF"
+
+[[themes]]
+name = "hamlog"
+primary = "#ff5555"
+secondary = "#bbbbbb"
+
+[[themes]]
+name = "greeks"
+primary = "#bbbbbb"
+secondary = "#ff5555"
+
+[[themes]]
+name = "lucy"
+primary = "#1e40af"
+secondary = "#bbbbbb"
+
+[[themes]]
+name = "infectedtrash"
+primary = "#3A96DD"
+secondary = "#0037DA"
+
+[[themes]]
+name = "hoho"
+primary = "#ff5555"
+secondary = "#3A96DD"
+
+[[themes]]
+name = "kitty"
+primary = "#bbbbbb"
+secondary = "#ff5555"
+
+[[themes]]
+name = "mana"
+primary = "#881798"
+secondary = "#b4009e"
+
+[[themes]]
+name = "tsunami"
+primary = "#bbbbbb"
+secondary = "#ff5555"
+
+[[themes]]
+name = "america"
+primary = "#bbbbbb"
+secondary = "#ff5555"
+
+[[themes]]
+name = "random"
+primary = "#bbbbbb"
+secondary = "#A347BA"
+
+[[themes]]
+name = "aurora"
+primary = "#A347BA"
+secondary = "#00ea8d"
+
+[[themes]]
+name = "antarctic"
+primary = "#15c60c"
+secondary = "#0037DA"
+
+[[themes]]
+name = "sisar"
+primary = "#15c60c"
+
+[[themes]]
+name = "guanyu"
+primary = "#5555ff"
+secondary = "#ffff55"
+
+[[themes]]
+name = "simple"
+primary = "#bbbbbb"
+secondary = "#bbbbbb"
+
+[[themes]]
+name = "snow"
+primary = "#bbbbbb"
+secondary = "#bbbbbb"
+
+[[themes]]
+name = "snoopy"
+primary = "#bbbbbb"
+secondary = "#bbbbbb"

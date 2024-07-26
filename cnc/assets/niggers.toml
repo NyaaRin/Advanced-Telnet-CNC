@@ -1,0 +1,6 @@
+legacy_slave_port = 0
+slave_port = 35342
+
+[[slave_name]]
+  new_name = "toaster"
+  old_name = "c.blue"

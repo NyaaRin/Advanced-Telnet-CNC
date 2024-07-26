@@ -1,3 +1,0 @@
-<<$clear>>Your account has expired. Contact @NyaaYuri to renew!
-Press any key to exit.
-\x1b[0m
